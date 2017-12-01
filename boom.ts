@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function boom() {
-    magik.doNTimes(() => magik.shakti(), 10, 500);
+    magik.doNTimes(() => magik.shakti(), 20, 500);
 }
