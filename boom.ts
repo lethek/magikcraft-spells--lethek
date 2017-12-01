@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function newSpell() {
+function boom() {
 	//let loc = magik.hic();
 
     magik.shakti();
