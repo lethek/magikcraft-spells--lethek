@@ -22,5 +22,4 @@ function r(t = 5) {
             magik.dixit("Shield exhausted!");
         }
     }
-
 }
